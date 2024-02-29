@@ -6,13 +6,13 @@
 -->
 Here are some ideas to get you started:
 
-🔭 I’m currently working on ... Python 
+🔭 I’m currently working on ... Python, PySpark, Hive, SQL, AWS 
 
-🌱 I’m currently learning ... Hive, Spark, Python
+🌱 I’m currently learning ... GenAI
 
-👯 I’m looking to collaborate on ... Spark, Python
+👯 I’m looking to collaborate on ... Python, PySpark, Hive, SQL, AWS, GenAI
 
-💬 Ask me about ... Python, Pyspark, Hive
+💬 Ask me about ... Python, PySpark, Hive, SQL, AWS
 
 📫 How to reach me: ... agarwalakash491@gmail.com
 <!--
@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash491&show_icons=true)
 
 Outside of [GitHub]
-[![Twitter: AgarwalAkash491](https://img.shields.io/twitter/follow/AgarwalAkash491?style=social)](https://twitter.com/AgarwalAkash491)
 [![Linkedin: Akash Agarwal](https://img.shields.io/badge/-AkashAgarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agarwalakash491/)](https://www.linkedin.com/in/agarwalakash491/)
 [![GitHub Akash491](https://img.shields.io/github/followers/Akash491?label=follow&style=social)](https://github.com/Akash491)
 <p><a href="https://Akash-Agarwal.web.app">🌐 Check out my website</a></p>
