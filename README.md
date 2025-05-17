@@ -6,13 +6,13 @@
 -->
 Here are some ideas to get you started:
 
-🔭 I’m currently working on ... Python, PySpark, Hive, SQL, AWS 
+🔭 I’m currently working on ... Python, PySpark, SQL, AWS, Azure 
 
 🌱 I’m currently learning ... GenAI
 
-👯 I’m looking to collaborate on ... Python, PySpark, Hive, SQL, AWS, GenAI
+👯 I’m looking to collaborate on ... Python, PySpark, SQL, AWS, Azure, GenAI
 
-💬 Ask me about ... Python, PySpark, Hive, SQL, AWS
+💬 Ask me about ... Python, PySpark, SQL, AWS, Azure
 
 📫 How to reach me: ... agarwalakash491@gmail.com
 <!--
